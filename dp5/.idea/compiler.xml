@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hdfs-day01" />
         <module name="hdfs-day02" />
+        <module name="hdfs-day01" />
+        <module name="zookeeperday01" />
       </profile>
     </annotationProcessing>
   </component>
