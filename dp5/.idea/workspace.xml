@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfbf3266-4ca0-40c5-9dab-a79bc2bd604c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zookeeper-day01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapreduce-day01/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,6 +164,7 @@
       <workItem from="1611242992771" duration="8000" />
       <workItem from="1611243125213" duration="17000" />
       <workItem from="1611316427925" duration="838000" />
+      <workItem from="1611401556160" duration="242000" />
     </task>
     <servers />
   </component>

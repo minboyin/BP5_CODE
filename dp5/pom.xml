@@ -12,6 +12,7 @@
         <module>hdfs-day02</module>
         <module>hdfs-day01</module>
         <module>zookeeper-day01</module>
+        <module>mapreduce-day01</module>
     </modules>
 
 
