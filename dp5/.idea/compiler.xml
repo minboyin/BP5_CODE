@@ -7,10 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mapreduceday01" />
+        <module name="mr-day03" />
+        <module name="mr-day02" />
         <module name="hdfs-day02" />
         <module name="hdfs-day01" />
         <module name="zookeeperday01" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mrday-02" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -13,6 +13,9 @@
         <module>hdfs-day01</module>
         <module>zookeeper-day01</module>
         <module>mapreduce-day01</module>
+        <module>mrday-02</module>
+        <module>mr-day03</module>
+        <module>mr-day02</module>
     </modules>
 
 

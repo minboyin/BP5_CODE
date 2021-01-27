@@ -2,9 +2,23 @@
   <dictionary name="minbo">
     <words>
       <w>bigdata</w>
+      <w>cmcc</w>
+      <w>datanode</w>
+      <w>flowsort</w>
       <w>hdfs</w>
+      <w>keyin</w>
+      <w>keyout</w>
+      <w>mapreduce</w>
+      <w>mazh</w>
       <w>minbo</w>
+      <w>mrday</w>
       <w>namenode</w>
+      <w>orderbean</w>
+      <w>standbymasterpath</w>
+      <w>valuein</w>
+      <w>valueout</w>
+      <w>watcer</w>
+      <w>znode</w>
     </words>
   </dictionary>
 </component>

@@ -1,8 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfbf3266-4ca0-40c5-9dab-a79bc2bd604c" name="Default Changelist" comment="second commit">
+    <list default="true" id="dfbf3266-4ca0-40c5-9dab-a79bc2bd604c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hdfs-day01/src/main/java/com/minboyin/hdfs/mapReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/Combiner/MyCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/JobMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/JobMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/JopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/MyPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/WordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/WordReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/Group/JobMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/Group/OrderBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/Group/OrderGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/Group/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/Group/OrderPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/Group/OrderReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/分组组件/JopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/分组组件/OrderBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/分组组件/OrderGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/分组组件/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/分组组件/OrderPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr-day03/src/main/java/com/miniboyin/分组组件/OrderReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZKHomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZKHomeWorkImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZKUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZKUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZKWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZK_CreateZNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZK_VAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZooKeeper_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZooKeeper_CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZooKeeper_Watcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/分布式锁/MyDistributeLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/分布式锁/redisDistributeLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/同步队列/SyncQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/同步队列/SyncQueueServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Datanode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Namenode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/配置管理/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/配置管理/DataNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/高可用/MasterHA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/minbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/minbo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hdfs-day02/target/classes/META-INF/hdfs-day02.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hdfs-day02/target/classes/com/minboyin/hdfs/HdfsApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/hdfs-day02/target/classes/com/minboyin/hdfs/HdfsApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hdfs-day02/target/classes/com/minboyin/hdfs/HdfsMergeFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/hdfs-day02/target/classes/com/minboyin/hdfs/HdfsMergeFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,17 +115,35 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1mqbmIZH8arS5IgLwFIGAVqIxcK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/大数据开发工程师/大数据开发工程师（奈学第五期）/笔记/大数据五期第二次课程课后资料/大数据五期第二次课程课后资料/hdfs-day02" />
+    <property name="last_opened_file_path" value="D:/大数据开发工程师/GitLab/直播课资料/05-分布式计算模型Mapreduce实践与原理剖析（二）/大数据五期第五次课程课后资料/大数据五期第五次课程课后资料/代码/mr-day02-2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\mr-day03\src\main\java\com\miniboyin\Group" />
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\mr-day02\src\main\java\com\minboyin\flow" />
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\mr-day02\src\main\java\com\minboyin\partitioner" />
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\zookeeper-day01\src\main\java\com\minboyin\zk\core" />
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\zookeeper-day01\src\main\java\com\minboyin\zk" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.minboyin.flow.sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\mr-day03\src\main\resources" />
+      <recent name="C:\Users\minbo\IdeaProjects\dp5\zookeeper-day01\src\main\java\com\minboyin\zk\分布式锁" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HdfsApi (1)">
+  <component name="RunManager" selected="Application.JobMain (1)">
     <configuration name="HdfsApi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.minboyin.hdfs.HdfsApi" />
       <module name="hdfs-day01" />
@@ -122,8 +197,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JobMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.flow.sort.JobMain" />
+      <module name="mr-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minboyin.flow.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.flow.sum.JobMain" />
+      <module name="mr-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minboyin.flow.sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HdfsApi" />
+      <item itemvalue="Application.HdfsApi (1)" />
+      <item itemvalue="Application.HdfsMergeFiles" />
+      <item itemvalue="Application.JobMain" />
+      <item itemvalue="Application.JobMain (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JobMain (1)" />
+        <item itemvalue="Application.JobMain" />
         <item itemvalue="Application.HdfsApi (1)" />
         <item itemvalue="Application.HdfsMergeFiles" />
         <item itemvalue="Application.HdfsApi" />
@@ -162,7 +272,16 @@
       <workItem from="1611242992771" duration="8000" />
       <workItem from="1611243125213" duration="17000" />
       <workItem from="1611316427925" duration="838000" />
-      <workItem from="1611401556160" duration="529000" />
+      <workItem from="1611401556160" duration="7120000" />
+      <workItem from="1611473500371" duration="13101000" />
+      <workItem from="1611557220277" duration="4789000" />
+      <workItem from="1611658308292" duration="925000" />
+      <workItem from="1611659764567" duration="5504000" />
+      <workItem from="1611676683710" duration="106000" />
+      <workItem from="1611676796867" duration="1167000" />
+      <workItem from="1611724852542" duration="43000" />
+      <workItem from="1611744371470" duration="13361000" />
+      <workItem from="1611759017751" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1611401824815</created>
@@ -171,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611401824815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1611402151811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611402151811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,5 +319,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dp5$JobMain__1_.ic" NAME="JobMain (1) Coverage Results" MODIFIED="1611758653653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.minboyin.flow.sort.*</FILTER>
+    </SUITE>
   </component>
 </project>
