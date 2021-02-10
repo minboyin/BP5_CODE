@@ -7,20 +7,22 @@ import org.apache.hadoop.mapreduce.Partitioner;
 /**
  * Created by minbo on 2021/1/23 20:32
  * Partitioner<KEY, VALUE>
- *     KEY：单词的类型
- *     VALUE：次数的类型
+ *     KEY：TEXT，电话号码
+ *     VALUE：PartitionBean
  *
  */
 
-public class MyPartitioner extends Partitioner<Text, LongWritable>{
+public class MyPartitioner extends Partitioner<Text, PartitionBean>{
     @Override
-    public int getPartition(Text text, LongWritable longWritable, int i) {
-        //分区
-        //需求：
-        if (text.toString().length() >=5){
+    public int getPartition(Text text, PartitionBean partitionBean, int i) {
+        if (text.toString().substring(0, 3).equals("135")) {
             return 0;
-        }else{
+        }else if (text.toString().substring(0, 3).equals("136")){
             return 1;
+        }else if (text.toString().substring(0, 3).equals("137")){
+            return 2;
+        }else {
+            return 3;
         }
     }
 }

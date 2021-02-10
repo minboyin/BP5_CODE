@@ -25,7 +25,7 @@ import org.apache.zookeeper.data.Stat;
  */
 public class DataNode {
 
-	private static final String Connect_String = "bigdata02:2181,bigdata03:2181,bigdata04:2181,bigdata05:2181";
+	private static final String Connect_String = "bigdata1:2181,bigdata2:2181,bigdata3:2181";
 
 	private static final int Session_Timeout = 4000;
 

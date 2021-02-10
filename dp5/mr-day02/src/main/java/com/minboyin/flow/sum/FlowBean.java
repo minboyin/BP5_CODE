@@ -65,11 +65,15 @@ public class FlowBean implements WritableComparable<FlowBean> {
                 "\t" + downCountFlow ;
     }
     //MapperReducer只能对key进行排序，此处虽然有比较的代码，但是由于FlowBean为value，所以不起作用
+    //根据return结果的正负，确定当前对象（this）和比较对象（o）的位置关系；正数,当前对象在后，升序；负数，当前对象在前，倒序
+    //compareTo:如果指定的数与参数相等返回0;如果指定的数小于参数返回-1;如果指定的数大于参数返回1
 
     @Override
     public int compareTo(FlowBean o) {
 
         return o.upFlow - this.upFlow;
+        //return this.upFlow > o.upFlow ? -1 :1;
+        //方式二：return this.upFlow.compareTo(o.upFlow) * -1
     }
 
     //3、由于需要进行数据传输，所以需要将对象序列化和反序列化

@@ -24,7 +24,7 @@ import org.apache.zookeeper.data.Stat;
  */
 public class MyDistributeLock {
 
-	private static final String connectStr = "bigdata02:2181,bigdata03:2181,bigdata04:2181";
+	private static final String connectStr = "bigdata1:2181,bigdata2:2181,bigdata3:2181";
 	private static final int sessionTimeout = 4000;
 	private static final String PARENT_NODE = "/parent_locks";
 	private static final String SUB_NODE = "/sub_client";

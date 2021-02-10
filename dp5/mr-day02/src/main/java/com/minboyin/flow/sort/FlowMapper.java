@@ -31,7 +31,7 @@ public class FlowMapper extends Mapper <LongWritable, Text, FlowBean,Text>{
         //1、拆分文本的数据集
         String[] split = value.toString().split("\t");
         String phoneNumber=split[0];
-
+;
         //2、实例化FlowBean对象，将数据封装到FlowBean中
         FlowBean flowBean = new FlowBean();
         flowBean.setUpFlow(Integer.parseInt(split[1]));

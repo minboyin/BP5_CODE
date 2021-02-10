@@ -12,7 +12,7 @@ import java.io.IOException;
  *     KEYIN:phoneNumber，即 Text
  *     VALUEIN:FlowBean
  *     KEYOUT：phoneNumber，即 Text
- *     VALUEOUT：FlowBean？
+ *     VALUEOUT：FlowBean
  *
  */
 

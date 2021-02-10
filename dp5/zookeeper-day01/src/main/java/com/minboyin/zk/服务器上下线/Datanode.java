@@ -13,7 +13,7 @@ import org.apache.zookeeper.ZooKeeper;
  */
 public class Datanode {
 
-    private static int index = 104;
+    private static int index = 103;
 
     private static ZooKeeper zk = null;
 
@@ -22,10 +22,10 @@ public class Datanode {
     	zk = new ZooKeeper(Constant.ConnectStr, Constant.TimeOut, null);
 
         // 第四步：上线服务器
-//		upServer();
+		upServer();
 
         // 第四步：测试下线服务器
-		downServer();
+//		downServer();
 
         zk.close();
     }

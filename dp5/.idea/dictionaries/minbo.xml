@@ -2,19 +2,39 @@
   <dictionary name="minbo">
     <words>
       <w>bigdata</w>
+      <w>bufend</w>
+      <w>bufindex</w>
+      <w>bufmark</w>
+      <w>bufstart</w>
+      <w>bufvoid</w>
+      <w>childrens</w>
       <w>cmcc</w>
+      <w>collectable</w>
       <w>datanode</w>
       <w>flowsort</w>
       <w>hdfs</w>
+      <w>huangbo</w>
       <w>keyin</w>
       <w>keyout</w>
+      <w>keystart</w>
+      <w>kvbuffer</w>
+      <w>kvend</w>
+      <w>kvindex</w>
+      <w>kvmeta</w>
+      <w>kvstart</w>
       <w>mapreduce</w>
       <w>mazh</w>
+      <w>metasize</w>
       <w>minbo</w>
       <w>mrday</w>
       <w>namenode</w>
+      <w>nmeta</w>
       <w>orderbean</w>
+      <w>sortmb</w>
+      <w>spillper</w>
       <w>standbymasterpath</w>
+      <w>vallen</w>
+      <w>valstart</w>
       <w>valuein</w>
       <w>valueout</w>
       <w>watcer</w>

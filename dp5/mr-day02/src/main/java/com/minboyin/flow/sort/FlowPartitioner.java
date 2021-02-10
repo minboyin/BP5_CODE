@@ -8,6 +8,7 @@ import org.apache.hadoop.mapreduce.Partitioner;
  */
 
 public class FlowPartitioner extends Partitioner<FlowBean,Text> {
+    //方法二：line.startsWith("135")
     @Override
     public int getPartition(FlowBean flowBean, Text text, int i) {
         if (text.toString().substring(0, 3).equals("135")) {

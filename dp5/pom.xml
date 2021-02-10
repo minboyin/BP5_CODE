@@ -16,6 +16,7 @@
         <module>mrday-02</module>
         <module>mr-day03</module>
         <module>mr-day02</module>
+        <module>Hadoop-Shuffle</module>
     </modules>
 
 

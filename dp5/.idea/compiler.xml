@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mapreduceday01" />
+        <module name="Hadoop-Shuffle" />
         <module name="mr-day03" />
         <module name="mr-day02" />
         <module name="hdfs-day02" />

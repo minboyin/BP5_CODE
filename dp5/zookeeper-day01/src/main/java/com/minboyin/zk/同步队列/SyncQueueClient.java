@@ -16,7 +16,7 @@ import org.apache.zookeeper.ZooKeeper;
  */
 public class SyncQueueClient {
 
-    private static final String CONNECT_STRING = "bigdata02:2181,bigdata03:2181,bigdata04:2181";
+    private static final String CONNECT_STRING = "bigdata1:2181,bigdata2:2181,bigdata3:2181";
 
     private static final int sessionTimeout = 4000;
 
