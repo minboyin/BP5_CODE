@@ -63,6 +63,7 @@ public class DataNode {
 					// 触发了监听之后的 子节点的列表信息
 					List<String> newChildNodeList = null;
 					try {
+						//2021年2月11日：zk.getChildren返回的数据时一个子节点list
 						newChildNodeList = zk.getChildren(PARENT_NODE, true);
 					} catch (KeeperException e1) {
 						e1.printStackTrace();
@@ -81,6 +82,7 @@ public class DataNode {
 							String diffServer = getDiffBetweenTwoList(oldChildNodeList, newChildNodeList);
 							byte[] data = null;
 							try {
+								//同时修改多个differ，不需要通过迭代吗？
 								data = zk.getData(PARENT_NODE + "/" + diffServer, true, null);
 							} catch (KeeperException e) {
 								e.printStackTrace();

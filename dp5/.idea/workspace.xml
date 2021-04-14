@@ -4,37 +4,125 @@
     <list default="true" id="dfbf3266-4ca0-40c5-9dab-a79bc2bd604c" name="Default Changelist" comment="happy new year">
       <change afterPath="$PROJECT_DIR$/../Alorithnm/src/main/java/com/minboyin/test/test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Alorithnm/target/classes/com/minboyin/test/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hadoop-Shuffle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hadoop-Shuffle/src/main/java/com/minboyin/maptask/IntBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hadoop-Shuffle/src/main/java/com/minboyin/maptask/MapOutputBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/partitioner/FlowBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/PartitionBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/core/ZK_VAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/core/ZookeeperApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/src/test/java/LeetCode/DAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid11912.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid12488.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid13816.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid13980.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid2588.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid4516.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/hs_err_pid8540.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/replay_pid13816.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/replay_pid13980.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/replay_pid4516.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/src/main/java/com/minboyin/udf/BaseFieldUDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/src/main/java/com/minboyin/udtf/EventJsonUDTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/target/classes/com/minboyin/udf/BaseFieldUDF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/target/classes/com/minboyin/udtf/EventJsonUDTF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/target/definedfunction-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/target/definedfunction-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definedfunction/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase-day01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase-day01/src/main/java/com/minboyin/hbase/HBASE_CONF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase-day01/src/main/java/com/minboyin/hbase/HBaseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase-day01/target/classes/com/minboyin/hbase/HBASE_CONF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase-day01/target/classes/com/minboyin/hbase/HBaseOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/src/main/java/com/minboyin/hive/ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/classes/com/minboyin/hive/ToLowerCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/hive-day01-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-day01/target/original-hive-day01-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/src/main/java/com/minboyin/kafka/ConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/src/main/java/com/minboyin/kafka/ConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/src/main/java/com/minboyin/kafka/KafkaServers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/src/main/java/com/minboyin/kafka/ProducerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/src/main/java/com/minboyin/kafka/ProducerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/target/classes/com/minboyin/kafka/ConsumerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/target/classes/com/minboyin/kafka/ConsumerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/target/classes/com/minboyin/kafka/KafkaServers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/target/classes/com/minboyin/kafka/ProducerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/target/classes/com/minboyin/kafka/ProducerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-day01/target/classes/com/minboyin/kafka/ProducerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/java/com/minboyin/spark/MyJavaWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/AvgValues.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/FileTopN.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/SparkSQLDemo1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/SparkSQLDemo2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/SparkSQLDemo3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/SparkSQLDemo4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/TwoTimesSort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/WebPV.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/src/main/scala/com/minboyin/spark/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/META-INF/spark-day01.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/AvgValues$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/AvgValues$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/AvgValues$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/AvgValues$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/AvgValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/FileTopN$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/FileTopN$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/FileTopN$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/FileTopN$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/FileTopN$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/FileTopN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/MyJavaWordCount$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/MyJavaWordCount$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/MyJavaWordCount$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/MyJavaWordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/TwoTimesSort$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/TwoTimesSort$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/TwoTimesSort$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/TwoTimesSort$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/TwoTimesSort$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/TwoTimesSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WebPV$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WebPV$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WebPV$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WebPV$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WebPV$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WebPV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WordCount$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WordCount$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WordCount$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WordCount$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WordCount$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/classes/com/minboyin/spark/WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-day01/target/spark-day01-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/core/ZKHomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/配置管理/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/配置管理/DataNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/core/ZKHomeWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/配置管理/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/配置管理/DataNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/dictionaries/minbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/dictionaries/minbo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/minbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/minbo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowPartitioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sort/FlowReducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow/sum/FlowReducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/JopMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/JopMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/MyPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/MyPartitioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/WordMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/PartitionerMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/WordReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/partitioner/PartitionerReduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZK_VAR.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/core/ZK_VAR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/分布式锁/MyDistributeLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/分布式锁/MyDistributeLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/同步队列/SyncQueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/同步队列/SyncQueueClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/同步队列/SyncQueueServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/同步队列/SyncQueueServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Datanode.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/服务器上下线/Datanode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/配置管理/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/配置管理/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/配置管理/DataNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zk/配置管理/DataNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/core/ZK_VAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/src/main/java/com/minboyin/zookeeper/core/ZK_VAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/同步队列/SyncQueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/同步队列/SyncQueueClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/同步队列/SyncQueueServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/同步队列/SyncQueueServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/配置管理/DataNode$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/配置管理/DataNode$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/配置管理/DataNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zk/配置管理/DataNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/core/ZK_VAL.class" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/core/ZK_VAL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/core/ZookeeperApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper-day01/target/classes/com/minboyin/zookeeper/core/ZookeeperApi.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,12 +187,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/mr-day02/src/main/java/com/minboyin/flow" />
-    <property name="last_opened_file_path" value="D:/大数据开发工程师/GitLab/直播课资料/05-分布式计算模型Mapreduce实践与原理剖析（二）/大数据五期第五次课程课后资料/大数据五期第五次课程课后资料/代码/mr-day02-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -134,20 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyDistributeLock">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.minboyin.zk.配置管理.Client" />
-      <module name="zookeeperday01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.minboyin.zk.配置管理.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HomeWork">
     <configuration name="DataNode" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.minboyin.zk.配置管理.DataNode" />
       <module name="zookeeperday01" />
@@ -161,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Datanode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.minboyin.zk.服务器上下线.Datanode" />
-      <module name="zookeeperday01" />
+    <configuration name="FileTopN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.spark.FileTopN" />
+      <module name="spark-day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.minboyin.zk.服务器上下线.*" />
+          <option name="PATTERN" value="com.minboyin.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MasterHA" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.minboyin.zk.高可用.MasterHA" />
-      <module name="zookeeperday01" />
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.spark.AvgValues" />
+      <module name="spark-day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.minboyin.zk.高可用.*" />
+          <option name="PATTERN" value="com.minboyin.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDistributeLock" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.minboyin.zk.分布式锁.MyDistributeLock" />
-      <module name="zookeeperday01" />
+    <configuration name="TwoTimesSort" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.spark.TwoTimesSort" />
+      <module name="spark-day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.minboyin.zk.分布式锁.*" />
+          <option name="PATTERN" value="com.minboyin.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +275,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Namenode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.minboyin.zk.服务器上下线.Namenode" />
-      <module name="zookeeperday01" />
+    <configuration name="WebPV" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.spark.WebPV" />
+      <module name="spark-day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.minboyin.zk.服务器上下线.*" />
+          <option name="PATTERN" value="com.minboyin.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.minboyin.spark.WordCount" />
+      <module name="spark-day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minboyin.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +303,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.DataNode" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Namenode" />
-      <item itemvalue="Application.Datanode" />
-      <item itemvalue="Application.MasterHA" />
-      <item itemvalue="Application.MyDistributeLock" />
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.WebPV" />
+      <item itemvalue="Application.HomeWork" />
+      <item itemvalue="Application.FileTopN" />
+      <item itemvalue="Application.TwoTimesSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyDistributeLock" />
-        <item itemvalue="Application.MasterHA" />
-        <item itemvalue="Application.Datanode" />
-        <item itemvalue="Application.Namenode" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.FileTopN" />
+        <item itemvalue="Application.TwoTimesSort" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.WebPV" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +369,65 @@
       <workItem from="1612594682146" duration="9143000" />
       <workItem from="1612771564490" duration="7360000" />
       <workItem from="1612945960365" duration="2115000" />
+      <workItem from="1612950343898" duration="8148000" />
+      <workItem from="1613093700721" duration="9295000" />
+      <workItem from="1613132816698" duration="44000" />
+      <workItem from="1613133286368" duration="36000" />
+      <workItem from="1613134672810" duration="24000" />
+      <workItem from="1613135533180" duration="30000" />
+      <workItem from="1613954676104" duration="1220000" />
+      <workItem from="1614005575836" duration="1200000" />
+      <workItem from="1614081006902" duration="1221000" />
+      <workItem from="1614233682708" duration="3384000" />
+      <workItem from="1614427981889" duration="5273000" />
+      <workItem from="1614578830678" duration="872000" />
+      <workItem from="1614582151580" duration="726000" />
+      <workItem from="1614583240390" duration="6871000" />
+      <workItem from="1614658696026" duration="3917000" />
+      <workItem from="1614664226481" duration="1776000" />
+      <workItem from="1614683893944" duration="1284000" />
+      <workItem from="1614913934282" duration="10710000" />
+      <workItem from="1615032477564" duration="2024000" />
+      <workItem from="1615205233735" duration="394000" />
+      <workItem from="1615795296040" duration="1532000" />
+      <workItem from="1615895716970" duration="2903000" />
+      <workItem from="1615946084140" duration="10349000" />
+      <workItem from="1615959797525" duration="1269000" />
+      <workItem from="1615961185958" duration="1004000" />
+      <workItem from="1615962208412" duration="545000" />
+      <workItem from="1615963246289" duration="16000" />
+      <workItem from="1616500575492" duration="4306000" />
+      <workItem from="1616640992555" duration="3957000" />
+      <workItem from="1616923346322" duration="3705000" />
+      <workItem from="1616927791500" duration="3874000" />
+      <workItem from="1617080701334" duration="784000" />
+      <workItem from="1617082242284" duration="89000" />
+      <workItem from="1617082973219" duration="280000" />
+      <workItem from="1617083287366" duration="139000" />
+      <workItem from="1617261949445" duration="1146000" />
+      <workItem from="1617365077576" duration="2446000" />
+      <workItem from="1617614077056" duration="2652000" />
+      <workItem from="1617634840837" duration="92000" />
+      <workItem from="1617635080773" duration="22000" />
+      <workItem from="1617635129395" duration="93000" />
+      <workItem from="1617635225725" duration="59000" />
+      <workItem from="1617635298502" duration="162000" />
+      <workItem from="1617635726870" duration="1555000" />
+      <workItem from="1617637405083" duration="262000" />
+      <workItem from="1617713880977" duration="1791000" />
+      <workItem from="1617715753453" duration="325000" />
+      <workItem from="1617716274553" duration="2946000" />
+      <workItem from="1617803209639" duration="1060000" />
+      <workItem from="1617804285217" duration="176000" />
+      <workItem from="1617805423693" duration="40000" />
+      <workItem from="1617805480924" duration="167000" />
+      <workItem from="1617805688509" duration="2079000" />
+      <workItem from="1617854676743" duration="7723000" />
+      <workItem from="1618231339601" duration="3611000" />
+      <workItem from="1618240263258" duration="381000" />
+      <workItem from="1618277065037" duration="3744000" />
+      <workItem from="1618318849504" duration="2564000" />
+      <workItem from="1618379269917" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1611401824815</created>
@@ -303,11 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611763228911</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="happy new year">
+      <created>1612950378764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612950378764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.scala" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -327,7 +484,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="happy new year" />
-    <option name="LAST_COMMIT_MESSAGE" value="happy new year" />
+    <MESSAGE value="spark and flink is cool" />
+    <option name="LAST_COMMIT_MESSAGE" value="spark and flink is cool" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dp5$JobMain__1_.ic" NAME="JobMain (1) Coverage Results" MODIFIED="1611758653653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mapreduceday01" />
-        <module name="Hadoop-Shuffle" />
+        <module name="spark-day01" />
         <module name="mr-day03" />
+        <module name="mapreduceday01" />
+        <module name="definedfunction" />
+        <module name="kafka-day01" />
+        <module name="Hadoop-Shuffle" />
+        <module name="hive-day01" />
+        <module name="hbase-day01" />
         <module name="mr-day02" />
         <module name="hdfs-day02" />
         <module name="hdfs-day01" />
@@ -16,6 +21,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dwproject-day01" target="1.8" />
       <module name="mrday-02" target="1.8" />
     </bytecodeTargetLevel>
   </component>

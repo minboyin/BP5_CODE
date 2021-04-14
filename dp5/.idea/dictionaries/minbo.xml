@@ -1,19 +1,25 @@
 <component name="ProjectDictionaryState">
   <dictionary name="minbo">
     <words>
+      <w>acks</w>
       <w>bigdata</w>
       <w>bufend</w>
       <w>bufindex</w>
       <w>bufmark</w>
       <w>bufstart</w>
       <w>bufvoid</w>
+      <w>chidrens</w>
       <w>childrens</w>
       <w>cmcc</w>
       <w>collectable</w>
       <w>datanode</w>
+      <w>facoriters</w>
+      <w>flink</w>
       <w>flowsort</w>
+      <w>hbase</w>
       <w>hdfs</w>
       <w>huangbo</w>
+      <w>jsonkeys</w>
       <w>keyin</w>
       <w>keyout</w>
       <w>keystart</w>
@@ -28,11 +34,13 @@
       <w>minbo</w>
       <w>mrday</w>
       <w>namenode</w>
+      <w>niuyear</w>
       <w>nmeta</w>
       <w>orderbean</w>
       <w>sortmb</w>
       <w>spillper</w>
       <w>standbymasterpath</w>
+      <w>udaf</w>
       <w>vallen</w>
       <w>valstart</w>
       <w>valuein</w>

@@ -17,6 +17,12 @@
         <module>mr-day03</module>
         <module>mr-day02</module>
         <module>Hadoop-Shuffle</module>
+        <module>hive-day01</module>
+        <module>hbase-day01</module>
+        <module>dwproject-day01</module>
+        <module>definedfunction</module>
+        <module>kafka-day01</module>
+        <module>spark-day01</module>
     </modules>
 
 
